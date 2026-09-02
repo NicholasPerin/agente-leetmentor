@@ -34,7 +34,7 @@ Defina **o que** seu agente faz e **como** ele funciona:
 Utilize os **dados mockados** disponíveis na pasta [`data/`](./data/) para alimentar seu agente:
 
 | Arquivo | Formato | Descrição |
-|---------|---------|-----------|
+| --------- | --------- | ----------- |
 | `transacoes.csv` | CSV | Histórico de transações do cliente |
 | `historico_atendimento.csv` | CSV | Histórico de atendimentos anteriores |
 | `perfil_investidor.json` | JSON | Perfil e preferências do cliente |
@@ -75,6 +75,7 @@ Desenvolva um **protótipo funcional** do seu agente:
 Descreva como você avalia a qualidade do seu agente:
 
 **Métricas Sugeridas:**
+
 - Precisão/assertividade das respostas
 - Taxa de respostas seguras (sem alucinações)
 - Coerência com o perfil do cliente
@@ -100,7 +101,7 @@ Grave um **pitch de 3 minutos** (estilo elevador) apresentando:
 Todas as ferramentas abaixo possuem versões gratuitas:
 
 | Categoria | Ferramentas |
-|-----------|-------------|
+| ----------- | ------------- |
 | **LLMs** | [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.microsoft.com/), [Gemini](https://gemini.google.com/), [Claude](https://claude.ai/), [Ollama](https://ollama.ai/) |
 | **Desenvolvimento** | [Streamlit](https://streamlit.io/), [Gradio](https://www.gradio.app/), [Google Colab](https://colab.research.google.com/) |
 | **Orquestração** | [LangChain](https://www.langchain.com/), [LangFlow](https://www.langflow.org/), [CrewAI](https://www.crewai.com/) |

@@ -7,7 +7,7 @@ Esta pasta contém exemplos de implementação para cada etapa do desafio.
 > 🎬 Em breve serão disponibilizados vídeos demonstrando a implementação completa de cada etapa, com foco no raciocínio por trás de cada decisão.
 
 | Etapa | Descrição | Link |
-|-------|-----------|------|
+| ------- | ----------- | ------ |
 | Documentação | Como definir o caso de uso e arquitetura | [em breve] |
 | Base de Conhecimento | Como usar os dados mockados | [em breve] |
 | Prompts | Como criar prompts eficazes | [em breve] |

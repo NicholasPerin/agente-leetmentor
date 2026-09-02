@@ -1,10 +1,10 @@
 # Código da Aplicação
 
-Esta pasta contém o código do seu agente financeiro.
+Esta pasta contém o código do agente.
 
 ## Estrutura Sugerida
 
-```
+```text
 src/
 ├── app.py              # Aplicação principal (Streamlit/Gradio)
 ├── agente.py           # Lógica do agente
@@ -14,7 +14,7 @@ src/
 
 ## Exemplo de requirements.txt
 
-```
+```text
 streamlit
 openai
 python-dotenv
