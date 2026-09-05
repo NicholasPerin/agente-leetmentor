@@ -2,9 +2,13 @@
 
 Este é um agente de IA feito para te ajudar com questões do LeetCode, rodando localmente usando Ollama com o modelo `gpt-oss`.
 
+Exemplo:
+
+![Exemplo][assets/Questao - lista de exer.png]
+
 ## Install
 
-HARNESS: 
+HARNESS:
 > Obs: Qualquer harness funciona. Eu optei pelo Ollama.
 
 [Ollama 0.33+](https://ollama.com/download)
