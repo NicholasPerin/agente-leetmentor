@@ -4,7 +4,7 @@ Este é um agente de IA feito para te ajudar com questões do LeetCode, rodando 
 
 Exemplo:
 
-![Exemplo][assets/Questao - lista de exer.png]
+![alt text](assets/Questao-lista.png)
 
 ## Install
 
