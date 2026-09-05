@@ -1,14 +1,18 @@
 # LeetMentor: O Agente para o LeetCode
 
+![alt text](assets/Logo.jpg)
+
 Este é um agente de IA feito para te ajudar com questões do LeetCode, rodando localmente usando Ollama com o modelo `gpt-oss`.
 
-Exemplo:
+Exemplos:
 
 ![alt text](assets/Questao-lista.png)
 
+![alt text](assets/Questao-recomendações.png)
+
 ## Install
 
-HARNESS:
+Harness:
 > Obs: Qualquer harness funciona. Eu optei pelo Ollama.
 
 [Ollama 0.33+](https://ollama.com/download)
@@ -17,10 +21,16 @@ HARNESS:
 ollama run gpt-oss:20b
 ```
 
-PYTHON:
+Python:
 
 ```sh
 pip install -r ./src/requirements.txt
+```
+
+Para rodar:
+
+```sh
+streamlit run src/app.py
 ```
 
 ## Estrutura do Repositório
@@ -47,3 +57,5 @@ pip install -r ./src/requirements.txt
 └── 📁 assets/                        # Imagens e diagramas
     └── ...
 ```
+
+> Feito para o [Bootcamp Bradesco - GenAI, Dados & Cyber](https://web.dio.me/track/bradesco-dados-ciberseguranca-genai) da DIO.me.
