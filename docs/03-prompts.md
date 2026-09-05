@@ -121,5 +121,3 @@ Onde devo começar com as questões do LeetCode?
 ```text
 Para fazer uma recomendação adequada, preciso entender melhor sobre o que você sabe de programação. Qual tópico você quer estudar primeiro?
 ```
-
----
